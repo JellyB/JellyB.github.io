@@ -32,3 +32,5 @@ npm install    //注意，这里一定要切换到刚刚clone的文件夹内执�
 hexo s  //启动本地服务器，使用admin管理博客
 
 ````
+
+link ：[CSDN](https://blog.csdn.net/Monkey_LZL/article/details/60870891)

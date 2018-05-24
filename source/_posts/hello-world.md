@@ -1,4 +1,4 @@
-title: Hello Hexo
+title: Hello World
 tags:
   - hexo
 categories:
