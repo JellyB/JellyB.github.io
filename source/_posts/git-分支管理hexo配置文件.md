@@ -19,6 +19,11 @@ git remote add origin https://github.com/JellyB/JellyB.github.io.git
 git push origin hexo  //push到Github项目的hexo分支上
 
 ```
+如果不成功，你是否忘了执行?
+```
+git commit -m ''
+```
+
 
 ###### 另一终端  git pull hexo 并简单配置
 
