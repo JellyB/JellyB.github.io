@@ -148,8 +148,7 @@ date: 2018-05-24 17:39:00
         (error) ERR value is not an integer or out of range
     ```
     
-    
-    ***
+ ***
     
 ##### Redis数据结构:哈希hash
 
@@ -353,6 +352,7 @@ date: 2018-05-24 17:39:00
         2) "9"
         ...
         10) "1"
+	```
         
 ***
 
