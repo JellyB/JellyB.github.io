@@ -1,11 +1,3 @@
-title: Redis 使用手册
-author: jelly
-tags:
-  - redis
-categories:
-  - redis
-date: 2018-05-24 17:39:00
----
 ##### Redis 数据结构：字符串String
 
 - `set` 设置一个字符串，并设置字符穿的值value
@@ -16,14 +8,14 @@ date: 2018-05-24 17:39:00
     ```
 
 - `get` 获取一个字符串的value
-	
-    ```
-    	get world
-        "helloworld"
-	````
-    
-- `srtlen` 获取字符穿的长度
 
+    ```
+        get world
+        "helloworld"
+    ```
+
+- `srtlen` 获取字符穿的长度
+    
     ```
         set hello helloworld
         get hello
@@ -32,7 +24,7 @@ date: 2018-05-24 17:39:00
         (integer) 10
     ``` 
     
-- `getrange` 获取字符串区间闭合[]区间
+- `getrange` 获取字符串区间闭合区间
 
     ```
         set word helloworld
@@ -149,7 +141,7 @@ date: 2018-05-24 17:39:00
         (error) ERR value is not an integer or out of range
     ```
     
- ***
+***
     
 ##### Redis数据结构:哈希hash
 
@@ -353,7 +345,7 @@ date: 2018-05-24 17:39:00
         2) "9"
         ...
         10) "1"
-	```
+    ```
         
 ***
 
@@ -628,3 +620,35 @@ Redis数据结构：集合set
         7)"a"
         8)"1100"
     ```
+
+    
+        
+        
+
+
+
+
+
+    
+    
+
+    
+
+    
+ 
+
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+
+    
+  
+
+
